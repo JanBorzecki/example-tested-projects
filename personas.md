@@ -82,7 +82,7 @@ Permisions: Can edit/delete account, upload and comment videos as a Teacher.
 Behaviour: Needs simple and clear information. Wants to delete his account but have a problem where to find this option. Seek for help on manufacturers website and in-app build-in contact screen.
 
 
-Persona #6
+### Persona #6
 
 Name: Annonymous
 Age: ?
