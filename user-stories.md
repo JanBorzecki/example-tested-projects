@@ -126,7 +126,7 @@ WHEN I click on "Register" button AND select „Student” from „Register as:�
 
 THEN I should have been successfully registered AND message "Registered successfully" should be displayed.
 
-*Scenario: Unregistered user should be able to see error message when tries to register using invalid data*
+#### Scenario: Unregistered user should be able to see error message when tries to register using invalid data
 
 GIVEN I'm an unregistered user AND I'm on "Register/Sign in" screen 
 
