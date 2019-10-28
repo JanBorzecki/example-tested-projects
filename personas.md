@@ -85,9 +85,15 @@ Behaviour: Needs simple and clear information. Wants to delete his account but h
 ### Persona #6
 
 Name: Annonymous
+
 Age: ?
+
 Role: Unregistered user, hacker
+
 Software skills: Very high
+
 Description: Tries to find security holes to recieve private information. Ambitious.
+
 Permisions: ?
+
 Behaviour: Uses SQL injection on registration screen. Inputs invalid data on sign in screen, tries to log in as an other registered user. Tries to crash the application by all means.
